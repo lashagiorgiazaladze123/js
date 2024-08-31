@@ -8,7 +8,7 @@
 const myButton = document.getElementById("myButton");
 const myLabel = document.getElementById("myLabel");
 const min = 1;
-const max = 10000000;
+const max = 10000;
 let randomNum1;
 let randomNum2;
 let randomNum3;
